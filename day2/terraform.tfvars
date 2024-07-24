@@ -1,3 +1,3 @@
-ami_id="ami-03972092c42e8c0ca"
+ami_id="ami-0427090fd1714168b"
 instancetype="t2.medium"
 keyvalue="north"
