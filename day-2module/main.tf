@@ -3,7 +3,7 @@ ami =var.ami_id
 instance_type = var.instancetype
 key_name = var.keyvalue
 tags = {
-  Name="buttery"
+  Name="sugar"
 }
 }
 provider "aws"{
