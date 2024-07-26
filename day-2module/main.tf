@@ -8,3 +8,4 @@ key_name = var.keyvalue
 tags={
 Name="xyz"
 }
+}
