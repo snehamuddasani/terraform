@@ -1,3 +1,3 @@
-ami_id="amiba99f81dbab"
-instancetype="t3.micro"
-keyvalue="publickey"
+ami_id="ami-0427090fd1714168b"
+instancetype="t2.micro"
+keyvalue="north"
