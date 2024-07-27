@@ -7,6 +7,6 @@ ami =var.ami_id
 instance_type = var.instancetype
 key_name = var.keyvalue
 tags={
-Name="xyz"
+Name="xyz1"
 }
 }
