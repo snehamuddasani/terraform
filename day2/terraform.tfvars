@@ -1,3 +1,3 @@
-ami_id="ami-055db685a6d9d5646"
-instancetype="t2.micro"
-keyvalue="abcdefgh"
+ami_id="ami-0427090fd1714168b"
+instancetype="t2.medium"
+keyvalue="north"
